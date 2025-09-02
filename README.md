@@ -1,4 +1,4 @@
-I'm a Pocho who lives on the U.S.–Mexico border.  
+I'm a pocho who lives on the U.S.–Mexico border.  
 Graduate student studying Computer Science @ UT Rio Grande Valley.  
 
 Currently focused on **Software Engineering** and **Deep Learning**.
@@ -31,3 +31,6 @@ Currently focused on **Software Engineering** and **Deep Learning**.
 
 ### 🤖 Machine Learning / Deep Learning  
 `TensorFlow`, `PyTorch`, `Hugging Face`, `NumPy`, `Pandas`, `Matplotlib`
+
+## Other stuff
+* Portfolio: [viccon23](https://viccon23.github.io)
